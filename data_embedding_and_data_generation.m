@@ -16,7 +16,7 @@ foldername = 'dataset';   % create the folder for storage dataset
 mkdir(foldername,'train\input')
 mkdir(foldername,'train\groundtruth')
 
-%% Generate data for training 
+% Generate data for training 
 listing = dir('bossDatabase\imgset');   % read the dataset of 10,000 host gray-scale images
 % create a variable for the storage of key
 key = zeros(4096,2,size(listing,1)-2);
@@ -116,7 +116,7 @@ end
 mean(psnrResult)
 
 
-%% Generate data for testing or performance validation
+% Generate data for testing or performance validation
 
 mkdir(foldername,'test\input')
 mkdir(foldername,'test\groundtruth')
