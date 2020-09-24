@@ -5,6 +5,7 @@ Abstract - The spread of illegal replication of digital image has seriously affe
 
 <img src="https://github.com/ThienHuynhThe/DL-Watermarking/blob/master/overall%20image%20watermarking%20framework.png" height="470px" width="907px" >
 <img src="https://github.com/ThienHuynhThe/DL-Watermarking/blob/master/deep%20learning%20for%20watermark%20recovery.png" height="309x" width="966px" >
+How to cite
 
 T. Huynh-The, C. Hua, N. A. Tu and D. Kim, "Robust Image Watermarking Framework Powered by Convolutional Encoder-Decoder Network," 2019 Digital Image Computing: Techniques and Applications (DICTA), Perth, Australia, 2019, pp. 1-7, doi: 10.1109/DICTA47822.2019.8945866.
 
