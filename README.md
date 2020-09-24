@@ -15,3 +15,5 @@ T. Huynh-The, C. Hua, N. A. Tu and D. Kim, "Robust Image Watermarking Framework 
   year={2019},
   address={Perth, Australia},
   pages={1-7},}
+
+The [dataset](https://o365kumoh-my.sharepoint.com/:u:/g/personal/thienht_office_kumoh_ac_kr/ESOh18yPvWVKvRB0N4uluV0BiPUe8vcddCQqSiO1_zmyDw?e=OIycAa) of host gray-scale and color image is available for free download.
