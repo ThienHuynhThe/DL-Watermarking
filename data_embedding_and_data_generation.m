@@ -7,7 +7,7 @@
 
 % general configuration
 wtype='haar';               % identify the wavelet familar for decomposition
-wmark = imread('w.bmp');    % read the watermark image
+wmark = imread('watermarkImage.bmp');    % read the watermark image
 nbit1 = sum(sum(wmark/255));
 nbit0 = 64^2 - nbit1;
 lambda = 40                 % embedding strength
